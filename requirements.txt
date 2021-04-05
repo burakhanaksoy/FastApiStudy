@@ -1,0 +1,3 @@
+fastapi
+Hypercorn
+requests
